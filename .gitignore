@@ -1,0 +1,6 @@
+.idea/
+.git/
+migrations
+db.sqlite3
+__pycache__/
+venv/

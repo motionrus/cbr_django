@@ -18,8 +18,8 @@ python manage.py load_records --days 90
 ### Фильтры
 
 Можно фильтровать по полю date
-```angular2
-http://localhost:8000/api/currency/?date=2020-01-01
+```
+http://localhost:8000/api/currency/?date=2020-04-22
 [
     {
         "code": "R01010",
